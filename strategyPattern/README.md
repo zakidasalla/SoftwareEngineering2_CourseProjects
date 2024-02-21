@@ -20,3 +20,4 @@ B.  Attack Strategy
 3.  SwingSword
 
 # UML Diagram
+![Blank diagram - Page 1 (9)](https://github.com/zakidasalla/SoftwareEngineering2_CourseProjects/assets/142433516/6887ecd5-64bf-4f13-8cb3-f6ee42638644)
