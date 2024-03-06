@@ -27,7 +27,5 @@ Implement the State pattern to improve code maintainability and flexibility:
 	</li>
 </ol>
 
-
-
 # UML Class Diagram
-
+![Blank diagram - Page 1 (11)](https://github.com/zakidasalla/SoftwareEngineering2_CourseProjects/assets/142433516/c84760c6-4264-4bba-a350-03f4920a56c2)
