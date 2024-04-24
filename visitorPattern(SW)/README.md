@@ -11,7 +11,9 @@ Implement the visitor design pattern based from the given diagram.
 
 Test your codes before the given client program:
 
-  public class TelcoPromo {
+<pre>
+  <code>
+    " public class TelcoPromo {
     public static void main(String[] args) {
       TelcoSubscription smart = new Telco(15, 500, Smart,false);
       TelcoSubscription globe = new Telco(10, 450, Globe,true);
@@ -34,6 +36,9 @@ Test your codes before the given client program:
   
                                      unli.showUnliCallsTextOffer(ditto.getTelcoName(), ditto.getUnliCallText()));
   }
-}
+}"
+  </code>
+</pre>
+ 
 # UML Diagram
 ![UML_VisitorSW](https://github.com/zakidasalla/SoftwareEngineering2_CourseProjects/assets/142433516/1075a686-f411-45f1-8e5d-b2d443805fa7)
