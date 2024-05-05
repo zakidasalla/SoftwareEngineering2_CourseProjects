@@ -1,6 +1,7 @@
 # SOLID Principles 
 Improve the following codes to implement SOLID principles in OOP.
 
+```java
 public interface Order {
   void calculateTotal(double price, int quantity);
   void placeOrder(String customerName, String address);
