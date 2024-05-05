@@ -42,6 +42,7 @@ public class OrderTest {
     order.sendEmailNotification("johndoe@example.com");
   }
 }
+```
 
 # UML Diagram
 
