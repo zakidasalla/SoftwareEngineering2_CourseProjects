@@ -12,4 +12,5 @@ Create a repository in your GitHub account. Put your solution there. In the read
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
 # UML Diagram
+![solidDesignUML](https://github.com/zakidasalla/SoftwareEngineering2_CourseProjects/assets/142433516/7b4c50d3-1f42-42b8-8ecd-56c6c9107106)
 
