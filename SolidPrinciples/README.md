@@ -45,4 +45,5 @@ public class OrderTest {
 ```
 
 # UML Diagram
+![solidUML](https://github.com/zakidasalla/SoftwareEngineering2_CourseProjects/assets/142433516/4e5030be-fcde-4e39-a134-842e3b453939)
 
